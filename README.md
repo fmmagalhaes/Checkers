@@ -11,7 +11,7 @@ There are three types of commands
 
 <b>'CPU'</b> starts a Player vs CPU game 
 
-Moving a piece
-Example: 3 1 4 2
-3 1 (row, column) is origin position
-4 2 is destination position
+Moving a piece  
+Example: 3 1 4 2  
+3 1 (row, column) is origin position  
+4 2 is destination position  
