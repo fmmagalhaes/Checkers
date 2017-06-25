@@ -9,7 +9,10 @@ There are three types of commands
 
 <b>'P'</b> starts a 1v1 game  
 
-<b>'CPU'</b> starts a Player vs CPU game 
+<b>'CPU'</b> starts a Player vs CPU game
+
+CPU is not that smart btw
+You can still lose though
 
 Moving a piece  
 Example: 3 1 4 2  
